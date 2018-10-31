@@ -11,6 +11,7 @@ public class CampfireApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("My application!!!");
 	}
 
 }
